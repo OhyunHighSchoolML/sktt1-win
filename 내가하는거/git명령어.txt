@@ -1,0 +1,5 @@
+git add . : 파일들을 커밋 준비 상태로 만듬
+git status : git의 현재 상태 확인
+git commit -m"메세지" : 파일커밋
+git push origin master: 파일푸쉬
+git remote add origin "github주소" : 커밋할 깃허브 주소 추가
