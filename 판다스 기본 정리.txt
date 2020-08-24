@@ -1,0 +1,10 @@
+판다스 기본 정리 깃헙 : https://github.com/minsuk-heo/pandas/blob/master/%ED%8C%AC%EB%8D%94%EC%8A%A4_%EB%AA%85%EB%A0%B9%EC%96%B4_%EA%BF%80%ED%8C%81.ipynb
+
+판다스를 쓰는 이유
+1. 엑셀과 상당히 유사하여 데이터 활용이 쉬우며 데이터 가공을 위한 다양한 함수를 지원함
+2. numpy기반으로 데이터 연산 처리가 상당히 빠르다
+
+판다스 개념 
+axis는 0일시 행(가로줄)에 대해서 작용하고 1일시 column(세로줄)에 대해서 작용함 axis의 기본값은 0임
+drop으로 데이터 행 삭제시 column하고 같은 방식으로 삭제하면 됨
+
